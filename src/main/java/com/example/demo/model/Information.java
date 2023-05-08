@@ -7,7 +7,7 @@ package com.example.demo.model;
 
 import com.example.demo.generic.Attr;
 import com.example.demo.generic.ClassAnotation;
-import connexion.Connexion;
+import com.example.demo.Connexion.Connexion;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
