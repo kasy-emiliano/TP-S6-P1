@@ -1,3 +1,14 @@
-F:\ITU\S6\Mr Rojo\TP S6 P14 Web design Mai 2022\src\main\java\com\example\demo\DemoApplication.java
-F:\ITU\S6\Mr Rojo\TP S6 P14 Web design Mai 2022\src\main\java\com\example\demo\util\exception\JSONException.java
-F:\ITU\S6\Mr Rojo\TP S6 P14 Web design Mai 2022\src\main\java\com\example\demo\controller\PageController.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\model\Econnect.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\generic\SyncDAO.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\model\Connect.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\generic\ClassAnotation.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\model\Information.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\model\Admin.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\controller\PageController.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\dao\HibernateDao.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\DemoApplication.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\generic\EconnectSQLServer.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\generic\GenericDAO.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\generic\Attr.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\util\exception\JSONException.java
+F:\ITU\S6\TP-S6-P14-Web-design-Mai-2022\src\main\java\com\example\demo\Connexion\Connexion.java
