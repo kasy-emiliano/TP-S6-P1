@@ -9,7 +9,7 @@ import java.sql.DriverManager;
  */
 public class Connect {
      public java.sql.Connection con() throws Exception{
-        Class.forName("org.postgresql");
+        Class.forName("org.postgresql.driver");
         return DriverManager.getConnection("jdbc:postgresql://containers-us-west-180.railway.app:6027/railway","postgres","WpZhHXX7Dl3KMFNqu9fu");
     }
     

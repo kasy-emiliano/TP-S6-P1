@@ -23,7 +23,7 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.postgresql</groupId>
+			<groupId>org.postgresql.driver</groupId>
 			<artifactId>postgresql</artifactId>
 		</dependency>
 
